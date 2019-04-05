@@ -1,0 +1,70 @@
+
+
+mschapv2: Mon Apr 17 01:41:02 2017
+	 username:	test
+	 challenge:	4b:5d:38:bb:ad:b2:c1:54
+	 response:	e0:d9:a4:7e:c8:d9:67:46:c7:b2:10:02:7f:a1:12:42:cc:94:e1:04:45:82:e7:0a
+	 jtr NETNTLM:	test:$NETNTLM$4b5d38bbadb2c154$e0d9a47ec8d96746c7b210027fa11242cc94e1044582e70a
+
+
+mschapv2: Mon Apr 17 01:42:15 2017
+	 username:	test
+	 challenge:	5c:72:b2:36:ec:9b:15:86
+	 response:	42:39:8c:f7:ca:77:e3:c9:50:3b:73:49:9f:e1:d1:aa:aa:e8:ee:78:24:0e:06:7d
+	 jtr NETNTLM:	test:$NETNTLM$5c72b236ec9b1586$42398cf7ca77e3c9503b73499fe1d1aaaae8ee78240e067d
+
+
+mschapv2: Mon Apr 17 01:43:27 2017
+	 username:	ufka
+	 challenge:	5c:cf:c0:7b:64:4c:e3:45
+	 response:	a5:20:a2:0a:d8:f9:38:00:8b:fa:2d:74:ec:ec:10:21:e7:0f:92:22:59:fe:f7:79
+	 jtr NETNTLM:	ufka:$NETNTLM$5ccfc07b644ce345$a520a20ad8f938008bfa2d74ecec1021e70f922259fef779
+
+
+mschapv2: Mon Apr 17 01:43:33 2017
+	 username:	ufka
+	 challenge:	7f:4a:73:ba:ea:96:05:54
+	 response:	dd:98:72:31:99:cc:ec:7c:d1:5a:a1:22:c7:dd:84:50:c0:e3:7b:d1:f6:08:8b:e5
+	 jtr NETNTLM:	ufka:$NETNTLM$7f4a73baea960554$dd98723199ccec7cd15aa122c7dd8450c0e37bd1f6088be5
+
+
+mschapv2: Mon Apr 17 01:43:41 2017
+	 username:	ufka
+	 challenge:	51:63:b8:cb:8d:a5:02:3b
+	 response:	ae:1c:11:a9:af:32:a9:06:60:e4:ff:71:f3:f8:f7:da:b2:39:40:64:5d:95:65:d3
+	 jtr NETNTLM:	ufka:$NETNTLM$5163b8cb8da5023b$ae1c11a9af32a90660e4ff71f3f8f7dab23940645d9565d3
+
+
+mschapv2: Mon Apr 17 01:43:51 2017
+	 username:	ufka
+	 challenge:	7d:67:b2:10:28:df:d7:a1
+	 response:	b6:12:cc:37:8e:fd:4f:e0:04:22:cd:1d:dc:22:99:09:f9:d3:12:51:cd:f8:27:8e
+	 jtr NETNTLM:	ufka:$NETNTLM$7d67b21028dfd7a1$b612cc378efd4fe00422cd1ddc229909f9d31251cdf8278e
+
+
+mschapv2: Wed Apr  3 23:39:16 2019
+	 username:	tt
+	 challenge:	e2:1b:7b:24:5f:07:ee:fa
+	 response:	69:f1:08:35:28:ea:0e:e4:10:d4:c7:58:94:3a:b8:83:f3:38:0d:25:75:08:a6:07
+	 jtr NETNTLM:	tt:$NETNTLM$e21b7b245f07eefa$69f1083528ea0ee410d4c758943ab883f3380d257508a607
+
+
+mschapv2: Wed Apr  3 23:39:28 2019
+	 username:	tt
+	 challenge:	3c:71:ed:4f:e4:a6:c0:7d
+	 response:	8c:11:8b:72:5c:4e:d1:f8:d8:7c:97:fc:dc:39:b8:2d:7d:f4:4e:ab:66:d3:ec:d0
+	 jtr NETNTLM:	tt:$NETNTLM$3c71ed4fe4a6c07d$8c118b725c4ed1f8d87c97fcdc39b82d7df44eab66d3ecd0
+
+
+mschapv2: Wed Apr  3 23:39:31 2019
+	 username:	tt
+	 challenge:	33:38:b1:22:ce:e2:4a:f7
+	 response:	af:ff:47:68:5f:f5:d7:f7:3e:50:c1:a3:4a:49:2a:7f:59:44:bf:30:ce:08:dc:99
+	 jtr NETNTLM:	tt:$NETNTLM$3338b122cee24af7$afff47685ff5d7f73e50c1a34a492a7f5944bf30ce08dc99
+
+
+mschapv2: Wed Apr  3 23:39:38 2019
+	 username:	tt
+	 challenge:	cf:a1:fa:72:bb:51:f2:c1
+	 response:	a8:08:c7:c4:e4:93:0a:57:6c:b2:ae:c6:f0:de:9c:05:ea:ce:db:c0:07:4f:2c:60
+	 jtr NETNTLM:	tt:$NETNTLM$cfa1fa72bb51f2c1$a808c7c4e4930a576cb2aec6f0de9c05eacedbc0074f2c60
