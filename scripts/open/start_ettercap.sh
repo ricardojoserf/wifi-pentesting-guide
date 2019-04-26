@@ -1,0 +1,2 @@
+#!/sh
+sudo ettercap -G
